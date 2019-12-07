@@ -1,1 +1,2 @@
 LICENSE FILES
+version 3.0
